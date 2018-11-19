@@ -8,7 +8,7 @@ Exercise
 
 2.Input two integers A,B and print A+B
 
-3.["Const grammer"](https://www.cnblogs.com/chogen/p/4574118.html). Keyword “const” can modify a variable. For example,“const int A = 2”. A cannot be changed after you define it. Do the following practice. Define a variable A,and try to change the value of A,then see what will happen when you compile.
+3.["Const grammer"](https://www.cnblogs.com/chogen/p/4574118.html/). Keyword “const” can modify a variable. For example,“const int A = 2”. A cannot be changed after you define it. Do the following practice. Define a variable A,and try to change the value of A,then see what will happen when you compile.
 
 4.Reference is an important concept in C++,try to use reference in your code.
 
