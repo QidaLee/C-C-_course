@@ -39,6 +39,7 @@ Course Progress
 * **2018.11.06: The seventh class. You are supposed to watch the teaching video before class, in order to know the pointer variable which can be used to represent various data structures and directly access and processing memory address.Pointer is one of the most important part and also one of the most difficult contents in C language**
 * **2018.11.13: The eighth class. You are supposed to watch the teaching video before class, in order to understand the the parameter passing and return of the function.The starting point of C programming is based on functions. With functions, we can decompose a larger problem into several small problems. Each small problem is solved by a function, that is, we only consider what to do in higher-level programs, and how to do it in lower-level functions.**
 * **2018.11.20: The ninth class. First we will have a review of C language. Then you are supposed to finish 8 questions. The questions are on the doc file.**
+* **2018.11.27: The tenth class. This time we will have a simulation test on matu.**
 .. toctree::
 
    C01
