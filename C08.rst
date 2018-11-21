@@ -10,7 +10,7 @@ Exercise
 
 3.This is `Const grammar  <https://www.cnblogs.com/chogen/p/4574118.html>`__ . Keyword “const” can modify a variable. For example,“const int A = 2”. A cannot be changed after you define it. Do the following practice. Define a variable A,and try to change the value of A,then see what will happen when you compile.
 
-4.Reference is an important concept in C++,try to use reference in your code.
+4.This is `Reference grammar  <https://www.cnblogs.com/gw811/archive/2012/10/20/2732687.html>`__ .Reference is an important concept in C++,try to use reference in your code.
 
 5.“Fucntion overload” is often used when you write you C/C++ code. Define three functions to get sum of some variables.  Each functioin arguments differs from others. Two integers,three integers and two float numbers respectively
 
