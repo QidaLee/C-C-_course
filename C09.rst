@@ -4,7 +4,7 @@ Object-oriented Programming C++
 
 Exercise
 =========================
-1.This is `Const grammar  <https://www.cnblogs.com/this-543273659/archive/2011/07/21/2113172.html>`__ .In c language, we use character arrays to represent a string. In c ++, string can be declared to define, such as string str ="hello" or string str ("hello").Please refer to the blog content and practice using string.
+1.This is `String grammar  <https://www.cnblogs.com/this-543273659/archive/2011/07/21/2113172.html>`__ .In c language, we use character arrays to represent a string. In c ++, string can be declared to define, such as string str ="hello" or string str ("hello").Please refer to the blog content and practice using string.
 
 2.Define two integer variables a and b, input the values of a and b from the keyboard, and output the calculation results of a+b.
 
