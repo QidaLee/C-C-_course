@@ -40,6 +40,8 @@ Course Progress
 * **2018.11.13: The eighth class. You are supposed to watch the teaching video before class, in order to understand the the parameter passing and return of the function.The starting point of C programming is based on functions. With functions, we can decompose a larger problem into several small problems. Each small problem is solved by a function, that is, we only consider what to do in higher-level programs, and how to do it in lower-level functions.**
 * **2018.11.20: The ninth class. First we will have a review of C language. Then you are supposed to finish 8 questions. The questions are on the doc file.**
 * **2018.11.27: The tenth class. This time we will have a simulation test on matu.**
+* **2018.12.04: The eleventh class. This time we will have a C programming experiment.**
+* **2018.12.11: The twelfth class. You are supposed to watch the teaching video before class, in order to know the basic knowledge about the C++ language, including basic I/O operations (cin, cout), constant variables in C++, reference type in C++ and so on.**
 .. toctree::
 
    C01
