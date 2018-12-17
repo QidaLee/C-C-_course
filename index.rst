@@ -43,6 +43,10 @@ Course Progress
 * **2018.11.27: The tenth class. This time we will have a simulation test on matu.**
 * **2018.12.04: The eleventh class. This time we will have a C programming experiment.**
 * **2018.12.11: The twelfth class. You are supposed to watch the teaching video before class, in order to know the basic knowledge about the C++ language, including basic I/O operations (cin, cout), constant variables in C++, reference type in C++ and so on.**
+* **2018.12.21: The thirteenth class. You are supposed to watch the teaching video before class, in order to know the Learn C++ object-oriented thinkings，including the definition and use of classes，access control of class members，definition and initialization of object pointers and so on.**
+* **2018.12.25: The forteenth class. This time we will have a C++ programming experiment.**
+* **2018.12.28: The fifteenth class. Class simulation examination 1 (C and C++).**
+* **2019.01.04: The sixteenth class. Class simulation examination 2 (C and C++).**
 .. toctree::
 
    C01
